@@ -1,0 +1,23 @@
+2024/10/15-19:01:09.770 3880 Reusing MANIFEST C:\code\Gym App\react-app-AK-FIT\backend\custom_auth_path\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/15-19:01:09.770 3880 Recovering log #455
+2024/10/15-19:01:09.820 3880 Reusing old log C:\code\Gym App\react-app-AK-FIT\backend\custom_auth_path\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000455.log 
+2024/10/15-19:01:11.733 b7c Level-0 table #465: started
+2024/10/15-19:01:11.745 b7c Level-0 table #465: 206303 bytes OK
+2024/10/15-19:01:11.750 b7c Delete type=0 #455
+2024/10/15-19:01:11.751 b7c Manual compaction at level-0 from '\x00=\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00>\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/15-19:01:14.993 3880 Compacting 1@1 + 6@2 files
+2024/10/15-19:01:15.247 3880 Generated table #466@1: 59568 keys, 2233488 bytes
+2024/10/15-19:01:15.452 3880 Generated table #467@1: 50358 keys, 2212914 bytes
+2024/10/15-19:01:15.547 3880 Generated table #468@1: 6543 keys, 2151951 bytes
+2024/10/15-19:01:15.792 3880 Generated table #469@1: 26470 keys, 2202037 bytes
+2024/10/15-19:01:16.150 3880 Generated table #470@1: 86439 keys, 2234322 bytes
+2024/10/15-19:01:16.301 3880 Generated table #471@1: 38576 keys, 856912 bytes
+2024/10/15-19:01:16.301 3880 Compacted 1@1 + 6@2 files => 11891624 bytes
+2024/10/15-19:01:16.302 3880 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/10/15-19:01:16.302 3880 Delete type=2 #457
+2024/10/15-19:01:16.303 3880 Delete type=2 #458
+2024/10/15-19:01:16.303 3880 Delete type=2 #459
+2024/10/15-19:01:16.303 3880 Delete type=2 #460
+2024/10/15-19:01:16.303 3880 Delete type=2 #461
+2024/10/15-19:01:16.303 3880 Delete type=2 #462
+2024/10/15-19:01:16.303 3880 Delete type=2 #465
